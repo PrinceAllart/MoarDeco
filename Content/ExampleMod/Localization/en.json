@@ -1,22 +1,11 @@
 {
     "BuildMode": {
-        "ExampleMod.CustomTable": "Custom Table",
-        "ExampleMod.CrossedWallpaper": "Crossed Wallpaper",
-        "ExampleMod.CustomTile": "Custom Tile"
+        "MoarDeco.LipsPhoto": "Lips Painting",
+        "MoarDeco.EastMountains": "Eastern Mountains Painting",
+        "MoreDeco.CactusScene": "Cactus Scene Paiting",
+        "MoreDeco.RoseInDark": "Rose In Darkness Painting",
+        "MoreDeco.LittleLunar": "Little Lunar Lullaby Painting",
+        "MoreDeco.BeyondPlanet": "Beyond Our Planet Painting",
     },
-    "Clothes": {
-        "ExampleMod.DarkShirt": "Dark Shirt",
-        "ExampleMod.PastelPants": "Pastel Pants",
-        "ExampleMod.PastelShoes": "Pastel Shoes",
-        "ExampleMod.WeirdHair": "Weird Hair"
-    },
-    "Emotions": {
-        "ExampleMod.GrassSitting": "Comfy Green Ground"
-    },
-    "Actions": {
-        "ExampleMod.SitOnGrass": "Sit on Grass"
-    },
-    "Ui": {
-        "ExampleMod.DarkShirtSpeedOption": "Dark Shirt Speed"
-    }
+    
 }
