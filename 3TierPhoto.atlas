@@ -1,0 +1,16 @@
+
+MoarDeco.3TierPhotoRight
+loc 0 0 16 47
+piv 0 0
+
+MoarDeco.3TierPhotoDown
+loc 0 48 16 47
+piv 0 0
+
+MoarDeco.3TierPhotoLeft
+loc 0 96 16 47
+piv 0 0
+
+MoarDeco.3TierPhotoUp
+loc 0 144 16 47
+piv 0 0
